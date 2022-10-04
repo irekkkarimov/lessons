@@ -1,0 +1,15 @@
+C:\Users\Booba\RiderProjects\lessons\lessons\bin\Debug\net6.0\lessons.exe
+C:\Users\Booba\RiderProjects\lessons\lessons\bin\Debug\net6.0\lessons.deps.json
+C:\Users\Booba\RiderProjects\lessons\lessons\bin\Debug\net6.0\lessons.runtimeconfig.json
+C:\Users\Booba\RiderProjects\lessons\lessons\bin\Debug\net6.0\lessons.dll
+C:\Users\Booba\RiderProjects\lessons\lessons\bin\Debug\net6.0\lessons.pdb
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.csproj.AssemblyReference.cache
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.AssemblyInfoInputs.cache
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.AssemblyInfo.cs
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.csproj.CoreCompileInputs.cache
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.dll
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\refint\lessons.dll
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.pdb
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\lessons.genruntimeconfig.cache
+C:\Users\Booba\RiderProjects\lessons\lessons\obj\Debug\net6.0\ref\lessons.dll
